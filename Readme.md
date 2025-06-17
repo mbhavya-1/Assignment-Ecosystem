@@ -3,8 +3,8 @@
 An interactive simulation that helps users visualize how balance is established within an ecosystem through the interactions between food (grass), prey (rabbits), and predators (wolves).  
 The app also includes a graph that visualizes the population of each species over time.
 
-**Hosted Website**: 
-
+**Hosted Website**: [Interactive Ecosystem Simulation][https://assignment-ecosystem.vercel.app/]
+**Video Demo Link**: [Video][https://drive.google.com/file/d/1tgmwjWhQaagMvSoZrEmp7IWze8RChPMy/view?usp=sharing]
 ---
 
 ## How to Use
