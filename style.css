@@ -1,0 +1,56 @@
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+
+
+:root {
+    --accent1: #2ECC71;
+    --accent2: #F39C12;
+    --bg: #000;
+    --fg: #ECF0F1;
+    --sidebar: #1C2A39;
+}
+
+
+
+body {
+    background-color: var(--bg);
+    color: var(--fg);
+    display: flex;
+    flex-direction: row;
+    font-family: 'Source Code Pro', monospace;
+    line-height: 1.6;
+    margin: 0;
+    min-height: 100vh;
+}
+
+#sketch {
+    display: flex;
+    flex: 1;
+}
+
+
+header, main {
+    padding: 16px;
+}
+
+main {
+    flex: 1;
+    padding-bottom: 0;
+    padding-top: 0;
+}
+
+
+/* Page content */
+
+canvas {
+    display: block;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--accent1);
+    line-height: 1.2;
+    text-align: center;
+}
